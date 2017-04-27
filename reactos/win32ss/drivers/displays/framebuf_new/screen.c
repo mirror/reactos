@@ -410,7 +410,7 @@ DEVINFO *pDevInfo)
             pGdiInfo->ciDevice.BlueGamma = colorCapabilities.WhiteGamma;
         }
 
-    };
+    }
 
     pGdiInfo->ciDevice.Cyan.x = 0;
     pGdiInfo->ciDevice.Cyan.y = 0;
